@@ -1,0 +1,26 @@
+div{
+    padding: 20px 0px;
+}
+
+.light-theme{
+    background-color: #ffffff;
+    color: #333333;
+}
+
+.dark-theme{
+    background-color: #333333;
+    color: #ffffff;
+}
+
+button{
+    background-color: #fff;
+    color: #333333;
+    padding: 8px 5px;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p{
+    font-size: large;
+    font-weight: 900;
+}
